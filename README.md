@@ -3,7 +3,7 @@ Machine Learning with Python Level 1
 
 ## Provide From Cognitive Class
 
-** ggg **
+**Different guided Labs**
 
 ### Explore many algorithms and models:
     . Popular algorithms: Regression, Classification, and Clustering
